@@ -1,4 +1,4 @@
-% Copyright (c) 2011, Daniel Weller (dweller@mit.edu)
+% Copyright (c) 2011, Daniel Weller
 % 
 % If you use this code please cite:
 % 
